@@ -1,4 +1,4 @@
 require 'capybara/rspec'
-require './app/app'
+require './app'
 
 run BookmarkManager
